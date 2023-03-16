@@ -47,4 +47,5 @@ const StoreContainer = ({handleTrips, checkIfBooked}) => {
     )
 }
 
-export default StoreContainer; 
+
+export default StoreContainer;
